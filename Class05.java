@@ -15,7 +15,7 @@ class Compute implements Math{
     }
 }
 
-}
+
 public class Class05 {
     Compute cmp=new Compute();
     cmp.mul(3,5);
